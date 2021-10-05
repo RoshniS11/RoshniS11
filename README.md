@@ -1,3 +1,5 @@
+I'm Roshni from India, and I am a passionate software tester and a pubic speaker who loves to automate new things and learn new programming languages.Do go through my profile and give your feedbacks, would love to hear from you!
+
 - 👋 Hi, I’m @RoshniS11
 -  🌱 I’m currently working with Cognizant as an Automation Tester
 - 👀 I’m interested in learning new technologies or upgradations to existing ones 
