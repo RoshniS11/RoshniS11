@@ -2,6 +2,7 @@ I'm Roshni from India, and I am a passionate software tester who loves to automa
 
 - 👋 Hi, I’m @RoshniS11
 - 🌱 I’m currently working with Cognizant as an Automation Tester
+-   My work experience is on Selenium with java using Testng and Cucumber,Restassured API testing,Accessibility testing using Deque
 - 📫 Feel free to reach me at roshnimyself@gmail.com
 
 <!---
